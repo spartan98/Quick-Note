@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick Note</string>
+
+    <string-array name="colors">
+        <item>Color</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>Green</item>
+        <item>Gray</item>
+        <item>Cyan</item>
+        <item>Yellow</item>
+        <item>Magenta</item>
+    </string-array>
+</resources>
