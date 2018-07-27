@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## spartan98_Quick_note_app
 
 You can use the [editor on GitHub](https://github.com/spartan98/Quick-Note/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
